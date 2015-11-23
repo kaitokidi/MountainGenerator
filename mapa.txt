@@ -1,0 +1,57 @@
+need the x and y of the map
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                                                                                                                                          
+                                                               ...................                                                                                        
+                                                              ..-----------------.                            ..................                                          
+                                                              .--:::::::::::::::-.                           ..----------------.......                                    
+                                                              .-::;;;;;;;;;;;;;:-.                          ..--::::::::::::::-------..                                   
+                                                              .-:;;iiiiiiiiiii;:-.                      .....--::;;;;;;;;;;;;:::::::--.                                   
+                                                              .-:;iiccccccccci;:-..                     .-----::;;iiiiiiiiii;;;;;;;::-.                                   
+                                                       ........-:;iccxxxxxxxci;:--.                     .-:::::;;iicccccccciiiiiii;;:-.                                   
+                                                      ..--------:;icxx%%%%%xci;::-.                     .-:;;;;;iiccxxxxxxcicccccii;:-.                                   
+                                                .......--::::::::;icx%%#%#%xci;;:-.                     .-:;iiiiiccxx%xx%xcccxxxcci;:-.                                   
+                                                .-------::;;;;;;;;icxx%%##%xcii;:-.                     .-:;icccccxx%%%%xxxxxx%xxci;:-.                                   
+                                                .-:::::::;;iiiiiiiiccxx%#%%xcci;:-.                     .-:;icxxxxx%%##%%%%xx%%%xci;:-.                                   
+                                                .-:;;;;;;;iicccccccccx%%%%%xxci;:-.                     .-:;icx%%%%%#%#%%%%%%%%xxci;:-.                                   
+                                                .-:;iiiiiiiccxxxxxxxxxxxxxx%xci;:-.                     .-:;icx%#%#########%%%%%xci;:-.                                   
+                                                .-:;icccccccxx%%x%x%xcccccxxxci;:-.                     .-:;icx%#####%####%#%x%xxci;:-.                                   
+                                                .-:;icxxxxxxx%%%%%%xcciiiccccci;:-.                     .-:;icx%%%%########%%%xxcci;:-..                                  
+                                                .-:;icx%%%cx%#%##%%xcii;iiiiiii;:-.                     .-:;icxx%%%#%%%##%%%x%xccii;:--.                                  
+                                                .-:;icx%#xxx%%#%%%xxci;;;;;;;;;;:-.                     .-:;iccxx%%#%###%%%%xxxcii;;::-..                                 
+                                                .-:;icx%%%xxx%%%x%xcci;::::::::::-.                     .-:;iiccxx%%#####%%xxccci;;;;:--.                                 
+                                                .-:;icxxxxxcxxx%xxxcii;:----------.                     .-:;;icxxx%#####%%xxcccciiii;::-.                                 
+                                                .-:;icccccccccxxxccci;;:-..............                 .-::;icx%%%######%%xxxxcccci;;:-.                                 
+                                                .-:;iiiiiiiiiccccciii;::--------------.                 .--:;icxxx%%%%%###%%x%xxxxcii;:-.                                 
+                                                .-:;;;;;;;;;iiiiiii;;;:::::::::::::::-.                 ..-:;icccxxx%%%%%%#%%%%x%xcci;:-.                                 
+                                                .-:::::::::;;;;;;;;;::;;;;;;;;;;;;;;:-.                  .-:;iiiccx%xxxxx%#%#%%%%xxci;:-.                                 
+                                                .---------:::::::::::;;iiiiiiiiiiii;:-.                  .-:;;;iiccxxcccx%%###%%%%xci;:-.                                 
+                                                .........-----------:;iicccccccccci;:-.                  .-:::;;iiccccicxx%%##%#%%xci;:-.                                 
+                                                        ...........-:;iccxxxxxxxxci;:-.                  .---::;;iiiiiiccxx%%###%xxci;:-.                                 
+                             .................                    .-:;icxx%%%x%%xci;:-.                  ...--::;;;;;;iiccx%%%##%%xci;:-.                                 
+                             .---------------..                   .-:;icx%%%%%%xxci;:-.                    ..--::::::;;iicxx%%%%%xxci;:-.                                 
+                            ..-:::::::::::::--..                  .-:;icxxx%#%xxcci;:-.                     ..------::;;icx%x%xxxxcci;:-.                                 
+                            .--:;;;;;;;;;;;::--.                  .-:;icccx%%%xccii;:-.                      ......--::;icxxxxxccccii;:-.                   ..............
+                            .-::;iiiiiiiii;;::-.                  .-:;iiicxxxxxcii;;:-.                           ..--:;iccccccciiii;;:-.                  ..-------------
+                          ...-:;;icccccccii;;:-.                  .-:;;;iccccccci;;::-.                            ..-:;iiiiiiiii;;;;::-.                  .--:::::::::::-
+                          .---:;iicxxxxxccii;:-.                  .-:::;iiiiiiiii;::--.                             .-:;;;;;;;;;;;::::--.                  .-::;;;;;;;;;:-
+                          .-:::;iccx%%%xxcci;:-.                  .---:;;;;;;;;;;;:--..                             .-:::::::::::::----..                 ..-:;;iiiiiii;::
+                          .-:;;;icxx%#%%xxci;:-.                  ...-:::::::::::::-..                              .---------------....                  .--:;iiccccci;;:
+                          .-:;iiicx%%%#%%xci;:-.                    .---------------.                               .................                     .-::;iccxxxcii;:
+                          .-:;icccx%%###%xci;:-.                    .................                                                                     .-:;;icxx%xcci;;
+                          .-:;icxxx%###%xxci;:-.                                                                                                          .-:;iicx%%xxciii
+                          .-:;icx%%###%%xcci;:-.                                                                                                          .-:;iccx%#%xccci
+                          .-:;icx%###%%%xcii;:-.                                                                                                          .-:;icxx#%%%xxci
+                          .-:;icx%%%%%%xxci;;:-.                                                                                                          .-:;icx%%%xx%xci
+                          .-:;icxxxxxx%xcci;::-.                                                                                                          .-:;icxxxxxxxxci
+
